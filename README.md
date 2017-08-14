@@ -4,13 +4,13 @@ Montamos esse teste para conhecer os seus conhecimentos e habilidades em HTML, C
 
 ### Faça um fork, clone este projeto e siga as instruções:
 
-- Desenvolver a pagina conforme o layout teste-kbrtec.psd;
-- Seguir a risca o .psd;
-- Suporte para IE9+, Chrome, Safari, Firefox+;
-- Você pode utilizar as tecnologias que achar melhor (frameworks de JS / CSS);
+- Desenvolver a página conforme o layout teste-kbrtec.psd;
+- Seguir à risca o PSD;
+- Suporte para IE9+, Chrome, Safari, Firefox;
+- Você pode utilizar as tecnologias que achar melhor (frameworks JS / CSS);
 - Faça o Pull Request;
 
- ### O que apreciamos
+ ### O que apreciamos:
 
 - Organização do código (HTML, CSS e Javascript);
 - Utilização de algum pré-processador CSS. ( De preferência SASS);
