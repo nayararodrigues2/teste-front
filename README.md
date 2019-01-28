@@ -8,6 +8,7 @@ Montamos esse teste para conhecer os seus conhecimentos e habilidades em HTML, C
 - Seguir à risca o PSD;
 - Suporte para IE9+, Chrome, Safari, Firefox;
 - Você pode utilizar as tecnologias que achar melhor (frameworks JS / CSS);
+- Se atentar à versão responsiva do layout, para visualização em dispositivos móveis.
 - Faça o Pull Request;
 
  ### O que apreciamos:
