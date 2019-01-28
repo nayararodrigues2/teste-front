@@ -24,3 +24,5 @@ Montamos esse teste para conhecer os seus conhecimentos e habilidades em HTML, C
 Queremos uma pessoa que gosta do que faz, que trabalhe em equipe e tenha vontade de inovar. Sempre buscando atualização e soluções inovadoras.
 
 *Se você se identificou, venha fazer parte do nosso time!*
+
+PRAZO: Até no máximo 31/01 às 23h59.
