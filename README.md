@@ -13,6 +13,7 @@ Montamos esse teste para conhecer os seus conhecimentos e habilidades em HTML, C
  ### O que apreciamos:
 
 - Organização do código (HTML, CSS e Javascript);
+- Se atentar as questões de SEO: semântica, metatags, alt, titles...
 - Utilização de algum pré-processador CSS. ( De preferência SASS);
 - Utilização de algum *task-runner* ( De preferência GULP);
 - Otimização de código e imagens;
